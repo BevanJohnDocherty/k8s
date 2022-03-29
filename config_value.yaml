@@ -1,0 +1,7 @@
+crowdstrikeConfig:
+    clientID: "05f6819765f14c68b4aca1d5a1626445"
+    clientSecret: "VtqXa1K6849m20TIQHGyPZAFjCEf3Wh5DnrRiL7S"
+    clusterName: arn:aws:eks:us-west-2:517716713836:cluster/CS-BDO-Demo-k8s
+    env: us-1
+    cid: 9b457b9d010349bab74f6b31735177ad
+    dockerAPIToken: AKCp8jQwmCgBZBntvFpZ9ZJ9p6qhabHBowNLt5TYm5VC37mXWMG5Tp41M9KqHdJa8xUd3dcca
